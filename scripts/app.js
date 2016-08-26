@@ -1,1 +1,1 @@
-angular.module("ngClassifieds", []);
+var app = angular.module("ngClassifieds", []);
